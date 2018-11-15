@@ -1,3 +1,15 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [ImagePropertiesForm.ascx](./CS/DevExpress/ASPxHtmlEditorForms/ImagePropertiesForm.ascx) (VB: [ImagePropertiesForm.ascx.vb](./VB/DevExpress/ASPxHtmlEditorForms/ImagePropertiesForm.ascx.vb))
+* [ImagePropertiesForm.ascx.cs](./CS/DevExpress/ASPxHtmlEditorForms/ImagePropertiesForm.ascx.cs) (VB: [ImagePropertiesForm.ascx.vb](./VB/DevExpress/ASPxHtmlEditorForms/ImagePropertiesForm.ascx.vb))
+* [InsertImageForm.ascx](./CS/DevExpress/ASPxHtmlEditorForms/InsertImageForm.ascx) (VB: [InsertImageForm.ascx.vb](./VB/DevExpress/ASPxHtmlEditorForms/InsertImageForm.ascx.vb))
+* [InsertImageForm.ascx.cs](./CS/DevExpress/ASPxHtmlEditorForms/InsertImageForm.ascx.cs) (VB: [InsertImageForm.ascx.vb](./VB/DevExpress/ASPxHtmlEditorForms/InsertImageForm.ascx.vb))
+* [SelectImageForm.ascx](./CS/DevExpress/ASPxHtmlEditorForms/SelectImageForm.ascx) (VB: [SelectImageForm.ascx.vb](./VB/DevExpress/ASPxHtmlEditorForms/SelectImageForm.ascx.vb))
+* [SelectImageForm.ascx.cs](./CS/DevExpress/ASPxHtmlEditorForms/SelectImageForm.ascx.cs) (VB: [SelectImageForm.ascx.vb](./VB/DevExpress/ASPxHtmlEditorForms/SelectImageForm.ascx.vb))
+<!-- default file list end -->
 # How to specify a CSS class for images inserted via the Insert Image dialog
 
 
