@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [ImagePropertiesForm.ascx](./CS/WebSite/DevExpress/ASPxHtmlEditorForms/ImagePropertiesForm.ascx) (VB: [ImagePropertiesForm.ascx](./VB/WebSite/DevExpress/ASPxHtmlEditorForms/ImagePropertiesForm.ascx))
+* [InsertImageForm.ascx](./CS/WebSite/DevExpress/ASPxHtmlEditorForms/InsertImageForm.ascx) (VB: [InsertImageForm.ascx](./VB/WebSite/DevExpress/ASPxHtmlEditorForms/InsertImageForm.ascx))
+* [Document.css](./CS/WebSite/Document.css)
+<!-- default file list end -->
 # How to specify a CSS class for images inserted via the Insert Image dialog
 
 
