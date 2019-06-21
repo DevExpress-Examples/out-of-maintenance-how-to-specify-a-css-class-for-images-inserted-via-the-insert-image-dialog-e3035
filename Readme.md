@@ -7,6 +7,9 @@
 * [Document.css](./CS/WebSite/Document.css)
 <!-- default file list end -->
 # How to specify a CSS class for images inserted via the Insert Image dialog
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3035)**
+<!-- run online end -->
 
 
 <p>From v2010 vol 2.6 you can specify the CSS class for images inserted via the Insert Image dialog.  For this purpose the <strong>cssClass</strong> field has been added to the <strong>GetDialogData_InsertImageForm</strong> function within the InsertImageForm.ascx file.<br />
